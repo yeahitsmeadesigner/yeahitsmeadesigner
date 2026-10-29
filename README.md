@@ -118,7 +118,7 @@ Whether I’m designing a concept, developing a workflow, or exploring AI-driven
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 To Connect With Me
 
 <p>
   <a href="https://github.com/yeahitsmeadesigner">
